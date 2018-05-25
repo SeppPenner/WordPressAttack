@@ -1,6 +1,6 @@
 # WordPressAttack
 
-WordPressAttack is written and tested in Python 3.6.2. Its purpose is to describe how a wordpress website can be attacked.
+WordPressAttack is written and tested in Python 3.6.5. Its purpose is to describe how a wordpress website can be attacked.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/5vxr69c6mmgyvj7m?svg=true)](https://ci.appveyor.com/project/SeppPenner/wordpressattack)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/WordPressAttack.svg)](https://github.com/SeppPenner/WordPressAttack/issues)
