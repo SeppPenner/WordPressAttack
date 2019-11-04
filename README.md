@@ -6,7 +6,7 @@ WordPressAttack is written and tested in Python 3.7.4. Its purpose is to describ
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/WordPressAttack.svg)](https://github.com/SeppPenner/WordPressAttack/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/WordPressAttack.svg)](https://github.com/SeppPenner/WordPressAttack/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/WordPressAttack.svg)](https://github.com/SeppPenner/WordPressAttack/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/WordPressAttack/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/WordPressAttack/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/WordPressAttack/badge.svg)](https://snyk.io/test/github/SeppPenner/WordPressAttack)
 
 ## How does it work:
