@@ -1,6 +1,6 @@
 # WordPressAttack
 
-WordPressAttack is written and tested in Python 3.7.4. Its purpose is to describe how a wordpress website can be attacked.
+WordPressAttack is written and tested in Python 3. Its purpose is to describe how a wordpress website can be attacked.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/5vxr69c6mmgyvj7m?svg=true)](https://ci.appveyor.com/project/SeppPenner/wordpressattack)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/WordPressAttack.svg)](https://github.com/SeppPenner/WordPressAttack/issues)
@@ -57,5 +57,4 @@ https://stackoverflow.com/questions/11747254/python-brute-force-algorithm
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version, updated requirements.
-* **Version 1.0.0.0 (2018-05-10)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/WordPressAttack/blob/master/Changelog.md).
